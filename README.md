@@ -6,5 +6,3 @@ Para executar você precisa:
 - Instalar o node js
 - Instalar e rodar o mongodb
 - Para visualizar os dados, poderá usar o Insomnia ou Postman, que deverão ser instalados
-- Ir na aplicação e rodar o script: npm run dev
-
