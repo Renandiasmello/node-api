@@ -5,4 +5,4 @@ Esta é uma API em node com mongodb(mongoose) que faz as operações de CRUD par
 Para executar você precisa:
 - Instalar o node js
 - Instalar e rodar o mongodb
-- Para visualizar os dados, poderá usar o Insomnia ou Postman, que deverão ser instalados
+- Para visualizar os dados, poderá usar o Insomnia ou Postman, que deverão ser instalados.
